@@ -1,0 +1,23 @@
+.header,
+.hero,
+.body,
+.footer {
+  background-color: aqua;
+  margin-bottom: 30px;
+}
+
+.box {
+  height: 80px;
+  background-color: red;
+  margin: 10px 0;
+  color: white;
+  font-size: 30px;
+}
+
+.red {
+  background-color: lime;
+}
+
+.five {
+  background-color: pink;
+}
